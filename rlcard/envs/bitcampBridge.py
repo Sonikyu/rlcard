@@ -1,6 +1,6 @@
 '''
     File name: envs/bridge.py
-    Author: stupid UD kids
+    Author: stupid UMD kids
     Date created: 4/20/2024
 '''
 

@@ -1,7 +1,7 @@
 '''
     File name: envs/bridge.py
-    Author: William Hale
-    Date created: 11/26/2021
+    Author: stupid UD kids
+    Date created: 4/20/2024
 '''
 
 import numpy as np
